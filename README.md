@@ -1,4 +1,4 @@
-Updated project features
+Project Features
 - CRUD Operations: GET, POST, PUT, PATCH and DELETE.
 - Class-Based Views (CBVs): Organized API request handling.
 - Serialization: Convert Django model data to JSON and validate incoming data.
